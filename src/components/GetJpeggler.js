@@ -28,7 +28,7 @@ export default class GetJpeggler extends React.Component {
               <div class="card__icon"><i class="fas fa-bolt"></i></div>
               <p class="card__exit"><i class="fas fa-times"></i></p>
               <h2 class="card__title">Transaction</h2>
-              <p class="card__apply">{tx.description.replace(address, "Jagoe")}</p>
+              <p class="card__apply">{tx.description.replace(address, "Jpeggler")}</p>
 
             </div>
           </div>
